@@ -11,7 +11,7 @@
             padding: 0;
             font-family: 'Inter', sans-serif;
             background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), 
-                        url('images/frontimage.jpg');
+                        url('frontimage.jpg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
